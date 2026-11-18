@@ -1,0 +1,8 @@
+numpy
+opencv-python
+imageio
+pillow
+matplotlib
+pytest
+# Needed only for the GAN part (training / GAN inference):
+tensorflow>=2.12
